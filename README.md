@@ -1,8 +1,5 @@
 # cms_mobile
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Code of Conduct](https://img.shields.io/badge/%E2%9D%A4-code%20of%20conduct-e04545.svg?style=flat)](https://gitlab.com/amfoss/cms-mobile/-/blob/master/CODE_OF_CONDUCT.md)
-
 cms-mobile is a flutter application for the amFOSS CMS. Using the application, club members can login into the CMS and view club attendence, their profile and status updates. 
 
 ## Getting Started
@@ -16,8 +13,6 @@ These instructions will get you a copy of the project up and be running on your 
 ### Setting up your development environment
 
 - Download and install Git.
-
-- Fork the [cms-mobile project](https://gitlab.com/amfoss/cms-mobile)
 
 - Clone your fork of the project locally. At the command line:
     ```
@@ -41,19 +36,6 @@ For help getting started with Flutter, view the Flutter
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-
-<table border="0">
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/20596763/85025069-87cf3000-b194-11ea-9d7d-0c9dffe9738b.png" width="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/20596763/85025107-91589800-b194-11ea-802d-f4a6ce307f55.png" width="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/20596763/85025124-987fa600-b194-11ea-971f-db32abb048c8.png" width="300"></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/20596763/85027884-0e394100-b198-11ea-8d13-038c06d13b16.png" width="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/20596763/85027873-0b3e5080-b198-11ea-9901-3793dee23fdd.png" width="300"></td>
-    <td><img src="https://user-images.githubusercontent.com/20596763/85027853-07123300-b198-11ea-8714-eda3f80f3082.png" width="300"></td>
-  </tr>
-</table>
 
 ##  Dependencies:
 
